@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.asm": "lc3asm",
+        "windows.h": "c"
+    }
+}
